@@ -5,7 +5,7 @@ body {
 .font-style {
     text-align: center;
     padding: 10%;
-    background-image: url(images/flood.jpg);
+    background-image: url(images/);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -86,6 +86,11 @@ body {
     display: flex;
     margin-left: 30%;
     margin-right: 20%;
+}
+
+.other-amount {
+    border: none;
+    padding-top: 50px;
 }
 
 #second-title {
