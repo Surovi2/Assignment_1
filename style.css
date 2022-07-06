@@ -1,0 +1,100 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-style {
+    text-align: center;
+    padding: 10%;
+    background-image: url(images/flood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+#weight {
+    font-size: 50px;
+    font-weight: 200px;
+    color: antiquewhite;
+}
+
+#first-button {
+    text-decoration: none;
+    background-image: linear-gradient(aqua, blue);
+    border-radius: 8px;
+    padding: 5px 10px;
+    color: floralwhite;
+
+}
+
+#first-para {
+    padding-bottom: 10px;
+    font-weight: 400px;
+    color: white;
+}
+
+#first-amount {
+    background-color: rgb(228, 238, 238);
+    margin: 10px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#second-amount {
+    background-color: rgb(214, 181, 170);
+    margin: 10px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+    border: 1px solid rgb(222, 55, 55);
+    color: red;
+}
+
+#third-amount {
+    background-color: rgb(228, 238, 238);
+    margin: 10px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#forth-amount {
+    background-color: rgb(228, 238, 238);
+    margin: 10px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#fifth-amount {
+    background-color: rgb(228, 238, 238);
+    margin: 10px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.donate-amount {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+#second-title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+#second-para {
+    text-align: center;
+    padding-bottom: 20px;
+
+}
