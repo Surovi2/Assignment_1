@@ -22,8 +22,10 @@ body {
     text-decoration: none;
     background-image: linear-gradient(aqua, blue);
     border-radius: 8px;
-    padding: 5px 10px;
+    padding: 10px 15px;
     color: floralwhite;
+
+
 
 }
 
@@ -43,14 +45,14 @@ body {
 }
 
 #second-amount {
-    background-color: rgb(214, 181, 170);
+    background-color: rgb(202, 215, 230);
     margin: 10px;
     width: 90px;
     height: 60px;
     text-align: center;
     padding-top: 30px;
-    border: 1px solid rgb(222, 55, 55);
-    color: red;
+    border: 1px solid blue;
+    color: black;
 }
 
 #third-amount {
@@ -96,5 +98,22 @@ body {
 #second-para {
     text-align: center;
     padding-bottom: 20px;
+
+}
+
+hr {
+    width: 700px;
+    border: 1px solid rgb(202, 190, 190);
+    margin-bottom: 20px;
+}
+
+#alt-tk {
+    text-align: center;
+    margin-bottom: 0px;
+    color: grey;
+}
+
+.text-style {
+    text-align: center;
 
 }
