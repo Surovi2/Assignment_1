@@ -182,7 +182,7 @@ hr {
     margin-left: 15%;
     margin-right: 15%;
     padding-top: 10%;
-
+    margin-bottom: 8%;
 
 }
 
@@ -193,4 +193,62 @@ hr {
 
 #fourth-para {
     margin-bottom: 30px;
+}
+
+.fourth-part {
+    text-align: center;
+}
+
+.outer-box {
+    background-color: rgb(221, 139, 192);
+
+    width: 35%;
+    margin-left: 30%;
+    padding-right: 80px;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 10%;
+
+}
+
+#left {
+    width: 250px;
+    height: 40px;
+    background-color: rgb(151, 187, 187);
+
+}
+
+#right {
+    width: 90px;
+    height: 45px;
+    background-color: darkgreen;
+    margin-left: 1px;
+}
+
+.inner-box {
+    padding-left: 23%;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0%;
+
+
+}
+
+#footer-id1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    font-size: 30px;
+    color: brown;
+    margin-bottom: 10px;
+}
+
+#footer-id2 {
+    padding-bottom: 10px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 0%;
 }
