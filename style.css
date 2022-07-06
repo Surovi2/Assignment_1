@@ -176,3 +176,21 @@ hr {
 
 
 }
+
+.third-part {
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 10%;
+
+
+}
+
+.third-title img {
+    margin-left: 15%;
+    width: 500px;
+}
+
+#fourth-para {
+    margin-bottom: 30px;
+}
