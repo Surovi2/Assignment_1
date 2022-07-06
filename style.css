@@ -51,7 +51,7 @@ body {
     height: 60px;
     text-align: center;
     padding-top: 30px;
-    border: 1px solid blue;
+    border: 1px solid rgb(90, 90, 232);
     color: black;
 }
 
@@ -115,5 +115,64 @@ hr {
 
 .text-style {
     text-align: center;
+
+}
+
+#third-title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+#third-para {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#first-plan {
+    background-color: rgb(88, 208, 208);
+    margin: 10px;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: 20px;
+}
+
+#second-plan {
+    background-color: rgb(224, 197, 214);
+    margin: 10px;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: 20px;
+}
+
+#third-plan {
+    background-color: rgb(208, 196, 88);
+    margin: 10px;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: 20px;
+}
+
+.donate-plan {
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+
 
 }
